@@ -1,0 +1,211 @@
+.nav-bar{
+  display: inline-flex;
+  float: right;  
+}
+
+.nav-bar li{
+  list-style: none;
+  margin-right: 40px;
+}
+
+.nav-bar a{
+  text-decoration: none;
+  color: red;
+  border: 3px dashed blue;
+}
+
+.brand {
+  text-decoration: none;
+  color: red;
+  float: left;
+  border: 3px dashed blue;
+  margin-top: 10px;
+}
+
+
+#heroes {
+    width: 100%;
+    height: 1700px;
+    margin-top: 50px;
+    border: 3px solid gray;
+    align-items: initial;
+  }
+
+#heroes img{
+  float: left;
+  width: 250px;
+  height: 150px;
+  border: 10px solid black;
+  border-radius: 30px;
+  margin-right: 15px;
+
+}
+
+#rasgador {
+  font-size: 20px;
+
+}
+
+.sessions {
+  width: 500px;
+  height: 500px;
+  margin-top: 80px;
+  border: 3px solid gray;
+}
+
+.sessionss {
+    width: 500px;
+    height: 600px;
+    margin-top: 80px;
+    border: 3px solid gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: bold;
+    font-size: 16.5px;
+    color: black;
+  }
+
+  #about-me p{
+  font-size: 28px;
+  font-family: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#about-me {
+width: 100%;
+}
+
+#about-me p{
+  margin-left: 440px;
+  font-weight: bold;
+}
+
+.heroeTitle {
+  margin-top: 150px;
+  font-size: 20px;
+}
+
+
+.list li{
+  list-style: none;
+  margin-top: 50px;
+  font-size: 35px; 
+  text-decoration: none;
+  color: black;
+}
+
+.list li a{
+  text-decoration: none;
+  color: black;
+  font-family: bold;
+}
+
+.Mapa {
+  width: 400px;
+  height: 400px;
+  float: right;
+  margin-right: 410px;
+  margin-top: 80px;
+}
+
+.Livro {
+  width: 350px;
+  height: 350px;
+  float: right;
+  margin-top: -540px;
+}
+
+.historia {
+  width: 800px;
+  height: 250px;
+  float: right;
+  margin-top: -200px;
+}
+
+.sessionss p{
+ font-weight: bold; 
+}
+
+.list li  {
+  font-size: 14px;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+} 
+.footer {
+  width: 100%;
+  height: 150px;
+  margin-top: 80px;
+  border: 3px solid gray;
+}
+
+.footer p {
+font-size: 30px;
+font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer li{
+  list-style: none;
+}
+
+.gmail {
+  width: 20px;
+  height: 20px;
+  float: left;
+  margin-top: -55px;
+  margin-left: 15px;
+}
+
+.whatsapp {
+  width: 30px;
+  height: 30px;
+  float: left;
+  margin-top: -40px;
+  margin-left: 10px;
+}
+
+.sessions h4{
+  font-size: 40px;
+}
+
+.footer ul{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  margin-top: -1px;
+
+}
+
+body {
+  background-color: darkgray;
+}
+
+nav {
+  background-color: black;
+  width: 100%;
+  height: 50px;
+}
+
+#btn-subir {
+  text-decoration: none;
+  width: 150px;
+  height: 35px;
+  background-color: black;
+  color: white;
+  display: block;
+  border-radius: 10px;
+  text-align: center;
+  padding-top: 15px;
+  float: right;
+  margin-bottom: 30px;
+  border: dashed blue;
+  margin-top: 15px;
+}
+
+.italo {
+  float: left;
+  width: 400px;
+  height: 300px;
+  border: 10px solid black;
+  border-radius: 30px;
+}
